@@ -2,6 +2,28 @@
 
 DS223 - Marketing Analytics | Homework 3 - Survival Analysis
 
+
+## Parametric Models
+
+- Building AFT models with all the available distributions (Weibull, Exponential, LogNormal, LogLogistic) and comparing. 
+- Visualizing all model curves in one plot.
+- Picking the best model, identifying significant features and keeping the final model.
+
+
+## CLV
+
+Calculating CLV per customer based on the final model and exploring CLV within different segments.
+
+
+## Report
+
+The goal is to understand the factors affecting the churn risk.
+
+- Interpreting coefficients and trying to find the most valuable segments (describe the definition of being valuable)
+- Assuming the data represents the population, how much would be the annual retention budget? 
+- What could be suggestions for retention.
+
+
 ## Dataset
 
 `ID`: Subscriber ID
@@ -33,24 +55,3 @@ DS223 - Marketing Analytics | Homework 3 - Survival Analysis
 `custcat`: customer category
 
 `churn`: (Yes/No)
-
-
-## Parametric Models
-
-- Building AFT models with all the available distributions (Weibull, Exponential, LogNormal, LogLogistic) and comparing. 
-- Visualizing all model curves in one plot.
-- Picking the best model, identifying significant features and keeping the final model.
-
-
-## CLV
-
-Calculating CLV per customer based on the final model and exploring CLV within different segments.
-
-
-## Report
-
-The goal is to understand the factors affecting the churn risk.
-
-- Interpreting coefficients and trying to find the most valuable segments (describe the definition of being valuable)
-- Assuming the data represents the population, how much would be the annual retention budget? 
-- What could be suggestions for retention.
