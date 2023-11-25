@@ -37,7 +37,7 @@ DS223 - Marketing Analytics | Homework 3 - Survival Analysis
 
 ## Parametric Models
 
-- Building ATF models with all the available distributions (Weibull, Exponential, LogNormal, LogLogistic) and comparing. 
+- Building AFT models with all the available distributions (Weibull, Exponential, LogNormal, LogLogistic) and comparing. 
 - Visualizing all model curves in one plot.
 - Picking the best model, identifying significant features and keeping the final model.
 
