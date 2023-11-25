@@ -53,5 +53,4 @@ The goal is to understand the factors affecting the churn risk.
 
 - Interpreting coefficients and trying to find the most valuable segments (describe the definition of being valuable)
 - Assuming the data represents the population, how much would be the annual retention budget? 
-- What would you suggest doing for retention?
-
+- What could be suggestions for retention.

@@ -15,6 +15,7 @@ def fit_models_summary(models, survival_data):
         print(model.summary)
         print(' ')
 
+
 def visualize_survival_curves(models):
     
     ''' Function for plotting survival curves for the models from lifelines'''
@@ -59,7 +60,6 @@ def calculate_and_add_clv(model, survival_data):
     survival_data['CLV'] = clv_per_customer
 
 
-
 def plot_clv_distribution_by_segments(survival_data, segments):
 
     ''' Function for plotting distribution of CLV scores across different segments'''
@@ -99,4 +99,3 @@ def calculate_annual_retention_budget(model, survival_data, retention_scale="med
 
     print(f'Number of Subscribers at Risk: {len(subscribers_at_risk)}')
     print(f'Predicted Annual Retention Budget: ${annual_retention_budget}')
-
