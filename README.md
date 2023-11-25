@@ -2,7 +2,7 @@
 
 DS223 - Marketing Analytics | Homework 3 - Survival Analysis
 
-**Dataset**
+## Dataset
 
 `ID`: Subscriber ID
 
@@ -34,17 +34,20 @@ DS223 - Marketing Analytics | Homework 3 - Survival Analysis
 
 `churn`: (Yes/No)
 
-**Parametric Models**
+
+## Parametric Models
 
 - Building ATF models with all the available distributions (Weibull, Exponential, LogNormal, LogLogistic) and comparing. 
 - Visualizing model curves (one plot for all)
 - Picking the best model, identifying significant features and keeping the final model.
 
-**CLV**
+
+## CLV
 
 Calculating CLV per customer based on the final model and exploring CLV within different segments.
 
-**Report**
+
+## Report
 
 The goal is to understand the factors affecting the churn risk.
 
